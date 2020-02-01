@@ -1,2 +1,2 @@
-def ake_a_number(name, katz_deli)
-  if n 
+name = ("Ada", "Grace", "Kent")
+katz_deli = ()
