@@ -6,5 +6,7 @@ def deli_counter (name, katz_deli)
     puts "The line is currently empty"
   elsif katz_deli.shift > 0 
   puts "#{name}, #{katz_deli}"
+    end 
+end 
   
     
