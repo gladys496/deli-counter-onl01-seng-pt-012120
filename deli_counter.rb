@@ -6,7 +6,7 @@ def deli_counter (katz_deli)
   if katz_deli = []
     puts "The line is currently empty"
   elsif take_number > 0 
-  return "#{name}, #{katz_deli}"
+    puts "#{name}, #{katz_deli}"
     end 
 end 
  
