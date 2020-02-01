@@ -2,7 +2,7 @@ name = ("Ada", "Grace", "Kent")
 take_a_number = (1, 2, 3)
 katz_deli = []
 
-def 
+def  
   elsif  katz_deli = []
     puts "The line is currently empty"
   
