@@ -4,7 +4,7 @@ katz_deli = []
 
 def deli_counter (katz_deli)
   when katz_deli = []
-    puts "The line is currently empty"
+    print "The line is currently empty"
   end 
 end 
   
