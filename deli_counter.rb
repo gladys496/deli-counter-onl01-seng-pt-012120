@@ -1,2 +1,5 @@
 katz_deli = []
-take_a_number 
+
+ ake_a_number(name, katz_deli)
+   name = ["Ada", "Grace", "Kent"]
+  puts
