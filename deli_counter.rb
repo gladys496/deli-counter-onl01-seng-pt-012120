@@ -10,7 +10,6 @@ def line (katz_deli)
     line_positions << "#{number}. #{costumer}"
     number +=1 
   end
-end 
  
   
     
